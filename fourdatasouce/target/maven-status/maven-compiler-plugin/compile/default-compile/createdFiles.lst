@@ -1,0 +1,12 @@
+com\hy\fourdatasource\config\DataSource.class
+com\hy\fourdatasource\model\SysUser.class
+com\hy\fourdatasource\service\impl\SysUserServiceImpl.class
+com\hy\fourdatasource\config\DynamicDataSourceContextHolder.class
+com\hy\fourdatasource\controller\SysUserController.class
+com\hy\fourdatasource\config\DynamicDataSourceContextHolder$1.class
+com\hy\fourdatasource\dao\SysUserMapper.class
+com\hy\fourdatasource\config\DynamicDataSource.class
+com\hy\fourdatasource\config\DynamicDataSourceAspect.class
+com\hy\fourdatasource\service\SysUserService.class
+com\hy\fourdatasource\config\MybatisConfig.class
+com\hy\fourdatasource\FourDataSourceApplication.class
